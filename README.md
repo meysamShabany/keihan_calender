@@ -1,5 +1,5 @@
-# persian_calender
-persian calender design with tkinter 
+# Keihan_Calender
+keihan calender design with tkinter 
 
 
 
